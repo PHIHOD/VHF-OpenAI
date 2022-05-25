@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/VHF-OpenAI/my-app/static/css/main.8b3b6241.css",
-    "main.js": "/VHF-OpenAI/my-app/static/js/main.baab659a.js",
+    "main.js": "/VHF-OpenAI/my-app/static/js/main.c1ee0a80.js",
     "static/js/787.28cb0dcd.chunk.js": "/VHF-OpenAI/my-app/static/js/787.28cb0dcd.chunk.js",
     "static/media/ECDIS.png": "/VHF-OpenAI/my-app/static/media/ECDIS.f8af3ecc2efb93b8cd09.png",
     "static/media/icon.png": "/VHF-OpenAI/my-app/static/media/icon.ebe2827a305f28a192fe.png",
     "static/media/logo.svg": "/VHF-OpenAI/my-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/VHF-OpenAI/my-app/index.html",
     "main.8b3b6241.css.map": "/VHF-OpenAI/my-app/static/css/main.8b3b6241.css.map",
-    "main.baab659a.js.map": "/VHF-OpenAI/my-app/static/js/main.baab659a.js.map",
+    "main.c1ee0a80.js.map": "/VHF-OpenAI/my-app/static/js/main.c1ee0a80.js.map",
     "787.28cb0dcd.chunk.js.map": "/VHF-OpenAI/my-app/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8b3b6241.css",
-    "static/js/main.baab659a.js"
+    "static/js/main.c1ee0a80.js"
   ]
 }
