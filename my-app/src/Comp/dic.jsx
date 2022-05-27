@@ -16,7 +16,7 @@ const userImg =
 function classNames(...classes) {
   return classes.filter(Boolean).join(" ");
 }
-const Time = () => {};
+const Time = () => { };
 
 const axios = require("axios");
 
@@ -110,7 +110,7 @@ const Dictaphone = () => {
     if (inputText) {
       let header = {
         headers: {
-          Authorization: `Bearer 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`,
+          Authorization: `Bearer `,
         },
       };
 

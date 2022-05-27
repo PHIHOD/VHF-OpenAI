@@ -6,7 +6,7 @@ import "flowbite";
 import { useState } from "react";
 
 function App() {
-  const [open, setOpen] = useState(true);
+  const [open, setOpen] = useState(false);
 
   return (
     <div className="App">
@@ -14,7 +14,7 @@ function App() {
 
       <OverlayChat open={open} setOpen={setOpen}></OverlayChat>
       <button
-        className="absolute inset-x-0 shadow-xl  w-72 mx-auto border-2 border-red-600 -mt-28 z-10 inline-flex items-center justify-center rounded-none border h-10 w-10 transition duration-100 ease-in-out bg-white text-gray-900 font-semibold hover:bg-gray-300 focus:outline-none"
+        className="absolute inset-x-0 shadow-xl  w-72 mx-auto border-2 border-red-600 -mt-28 z-10 inline-flex items-center justify-center rounded-none  h-10 transition duration-100 ease-in-out bg-white text-gray-900 font-semibold hover:bg-gray-300 focus:outline-none"
         onClick={() => {
           setOpen(true);
         }}
